@@ -6,22 +6,21 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Infusing Computing Webseries
-email: wiobyrne@gmail.com
-description: "The Infusing Computing Webseries explores the opportunities to embed computational thinking (CT) into middle school and high school classrooms."
-subtitle: "A discussion from the intersection of computational thinking & the content areas."
-lang: en-us
-author: Ian O'Byrne
+title: Découverto Podcasts
+email: decouverto@yahoo.fr
+description: "Les podcasts Découverto: site regroupant l'ensemble des podcasts Découverto comprennant notamment Mémoire de Territoire."
+subtitle: "Un instant de découverto avec Découverto."
+lang: fr-fr
+author: Découverto
 copyright: "CC-BY 4.0"
-baseurl: "/infusing-computing-pod" # the subpath of your site, e.g. /blog
-url: "https://wiobyrne.github.io" # the base hostname & protocol for your site
-twitter_username: wiobyrne
-github_username:  wiobyrne
+baseurl: "/podcast" # the subpath of your site, e.g. /blog
+url: "https://decouverto.github.io" # the base hostname & protocol for your site
+github_username:  decouverto
 
 permalink: /:year/:title.html
 
 #Timezone
-timezone: United States/New York
+timezone: France/Paris
 
 #Setup for Pages
 include: ['_pages']
