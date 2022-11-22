@@ -13,8 +13,8 @@ subtitle: "Un instant de découverto avec Découverto."
 lang: fr-fr
 author: Découverto
 copyright: "CC-BY 4.0"
-baseurl: "/podcast" # the subpath of your site, e.g. /blog
-url: "https://decouverto.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://podcast.decouverto.fr" # the base hostname & protocol for your site
 github_username:  decouverto
 
 permalink: /:year/:title.html
