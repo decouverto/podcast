@@ -7,3 +7,8 @@ Episodes can be streamed using the [Plyr](https://github.com/Selz/plyr) HTML/JS 
 
 All thanks for the site design, and guidance in the development for this site is given to [Tim Klapdor](https://timklapdor.com/). This site was inspired by Tim's use of the [Jekyll Skeleton](https://github.com/timklapdor/jekyll-skeleton) to create the [LinkRot Podcast](https://github.com/timklapdor/link-rot).
 To learn more about how this site was created, review the [podcasting page from Infusing Computing](https://wiobyrne.github.io/infusing-computing-pod/podcast.html).  
+
+### To serve locally
+```
+bundle exec jekyll serve --trace --port 8111 --host=0.0.0.0
+```
