@@ -15,4 +15,4 @@ voices: "Vincent Fetter, Alexandra Gerber"
 
 ### Mémoire De Territoire Avec Alexandra Gerber #1
 
-Premier épisode avec Alexandra Gerber dans la nouvelle avanture "Mémoire De Territoire" proposée par Découverto.
+Premier épisode avec Alexandra Gerber dans la nouvelle avanture "Mémoire De Territoire" proposée par Découverto. [Alexandra Gerber](http://alexandra-gerber.com/) nous parles des Totems sur \"Mémoire De Territoire\".
