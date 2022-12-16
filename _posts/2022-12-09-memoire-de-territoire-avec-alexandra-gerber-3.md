@@ -13,7 +13,7 @@ voices: "Alexandra Gerber, Vincent de Découverto"
 ---
 ### Mémoire de Territoire avec Alexandra Gerber #3
 
-Alexandra Gerber, en plus de ses nombreux talents déjà évoqués dans nos podcasts précédents à une passion pour l'écriture. Une passion ou un besoin ? Difficile à dire.
+Alexandra Gerber, en plus de ses nombreux talents déjà évoqués dans nos podcasts précédents a une passion pour l'écriture. Une passion ou un besoin ? Difficile à dire.
 La psychologie des différents personnages est très bien amenée. La question philosophique de la liberté est très bien posée.
 En bonus, ce roman est construit dans un écrin régional de toute saveur, ce qui permet également d'effleurer les mythologies du passé de la région.
                     
