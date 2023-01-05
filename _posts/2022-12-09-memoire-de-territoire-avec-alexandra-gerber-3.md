@@ -9,7 +9,7 @@ length: "393"
 explicit: "no" 
 keywords: "Faune, le premier roman d'Alexandra Gerber"
 block: "no" 
-voices: "Alexandra Gerber, Vincent de Découverto"
+voices: "Alexandra Gerber, Vincent Fetter"
 ---
 ### Mémoire de Territoire avec Alexandra Gerber #3
 
