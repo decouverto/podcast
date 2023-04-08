@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mémoire De Territoire Wally #2"
+title: "Mémoire De Territoire Wally Color #2"
 date: 2023-04-05 10:00:00 +0100
 file: "https://archive.org/download/memoire-de-territoire-avec-wally-color-2/Me%CC%81moire%20de%20territoire%20avec%20Wally%20Color%20%232.mp3"
 description: "Wally Color's vous permet d'apprendre à vous réaliser"
