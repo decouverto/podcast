@@ -13,5 +13,5 @@ voices: "Alain Kocher, Vincent de Découverto"
 ---
 ### Mémoire De Territoire Alain Kocher #1
 
-Nous avons eu la chance de découvrir un ancien garde forestier installé dans la vallée des éclusiers. Un sage qui accepte de partager avec nous sa connaissance.
+Nous avons eu la chance de découvrir un ancien garde forestier installé dans la vallée des éclusiers: un sage qui accepte de partager avec nous sa connaissance.
                     
