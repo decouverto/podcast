@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mémoire De Territoire Alain Kocher #1"
-date: 2023-04-17 10:00:00 +0100
+date: 2023-04-16 10:00:00 +0100
 file: "https://archive.org/download/memoire-de-territoire-alain-kocher-1/memoire-de-territoire-alain-kocher-1.mp3"
 description: "Alain Kocher nous parle de la serre aquaponie de la vallée des éclusiers."
 duration: "9:47" 
