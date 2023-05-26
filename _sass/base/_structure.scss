@@ -4,7 +4,62 @@
     min-height: 100vh;
 }
 
-header {
+
+
+.nav-container {
+    flex-shrink: 0;
+    overflow: hidden;
+    background-size: 100%;
+    background-color: #dc3133;
+    background-repeat: no-repeat;
+    color: #fff;
+    padding: 0;
+}
+
+.nav-container h1 {
+    margin: 0;
+    padding-left: 10px;
+    font-size: 2em;
+    font-weight: 700;
+}
+
+.nav-container h1 {
+    margin:1rem;
+}
+
+ul.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    top: 0;
+    width: 100%;
+    z-index: 1000
+}
+
+ul.nav li {
+    float: left;
+    margin-bottom: 0;
+}
+
+ul.nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul.nav li a:hover:not(.active) {
+    background-color: #111;
+}
+
+ul.nav .active {
+    background-color: #dc3133;
+}
+
+.gradient {
     min-height: 192px;
     max-height: 192px;
     display: flex;
@@ -13,13 +68,13 @@ header {
     text-align: center;
 }
 
-header a {
+.gradient a {
     text-decoration: none;
     color: $header-color;
     text-shadow: 0.1em 0.1em 1em $drop-shadow;
 }
 
-header a:hover {
+.gradient a:hover {
     color: $header-color-link;
 }
 
