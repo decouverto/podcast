@@ -10,5 +10,5 @@ To learn more about how this site was created, review the [podcasting page from 
 
 ### To serve locally
 ```
-https://podcasts.apple.com/fr/podcast/d%C3%A9couverto-podcasts/id1655883103
+bundle exec jekyll serve
 ```
